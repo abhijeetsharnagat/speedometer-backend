@@ -18,7 +18,7 @@ Make sure you have the following installed:
 
 ### Installation
 
-Clone the repository and install dependencies:
+Clone the repository and install necessary dependencies:
 
 ```bash
 git clone https://github.com/your-username/your-backend-repo.git
